@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/pythonProject1/mlruns/0/e86d006b395948a5b2d286e3c2dae1e8/artifacts
+end_time: 1647409764342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e86d006b395948a5b2d286e3c2dae1e8
+run_uuid: e86d006b395948a5b2d286e3c2dae1e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1647409758265
+status: 3
+tags: []
+user_id: Samra
